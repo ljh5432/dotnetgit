@@ -1,0 +1,14 @@
+C:\public\dotnet_Core_Pj\dotnetgit\bin\Debug\netcoreapp2.1\dotnetgit.deps.json
+C:\public\dotnet_Core_Pj\dotnetgit\bin\Debug\netcoreapp2.1\dotnetgit.runtimeconfig.json
+C:\public\dotnet_Core_Pj\dotnetgit\bin\Debug\netcoreapp2.1\dotnetgit.runtimeconfig.dev.json
+C:\public\dotnet_Core_Pj\dotnetgit\bin\Debug\netcoreapp2.1\dotnetgit.dll
+C:\public\dotnet_Core_Pj\dotnetgit\bin\Debug\netcoreapp2.1\dotnetgit.pdb
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.csprojAssemblyReference.cache
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.csproj.CoreCompileInputs.cache
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.RazorAssemblyInfo.cache
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.RazorAssemblyInfo.cs
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.AssemblyInfoInputs.cache
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.AssemblyInfo.cs
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.RazorTargetAssemblyInfo.cache
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.dll
+C:\public\dotnet_Core_Pj\dotnetgit\obj\Debug\netcoreapp2.1\dotnetgit.pdb
